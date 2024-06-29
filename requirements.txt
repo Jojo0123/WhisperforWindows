@@ -1,0 +1,6 @@
+pyqt6
+pyaudio
+numpy
+openai-whisper
+pyinstaller
+requests
